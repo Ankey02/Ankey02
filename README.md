@@ -84,4 +84,4 @@ I'm interested in opportunities where I can work on **software development, full
 
 ---
 
-⭐ Feel free to explore my repositories and projects below!
+⭐ Feel free to explore my repositories and projects below! 
