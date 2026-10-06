@@ -1,26 +1,36 @@
 # Hi, I'm Ankit 👋
 
-### Software Developer | Full-Stack JavaScript | Python | AI & ML
+### Software Developer | C# / .NET | Full-Stack JavaScript | Python
 
 I'm a software developer who enjoys building **web applications, APIs, automation tools, and intelligent solutions**.
 
-I work primarily with **JavaScript and Python** and I'm currently expanding my expertise in **Artificial Intelligence and Machine Learning**, with a focus on building practical AI-powered applications.
+I work with **C#/.NET, JavaScript and Python**. Recently I've been building **payment systems**: REST APIs, PostgreSQL, Docker and automated testing.
 
 ---
 
 ## 🛠️ What I Work With
 
 - ⚛️ **Frontend:** React, JavaScript, HTML, CSS
-- 🟢 **Backend:** Node.js, Express.js, REST APIs
+- 🟣 **Backend:** C#, .NET 9, ASP.NET Core, Node.js, Express.js, REST APIs
+- 🐘 **Database:** PostgreSQL, SQL, EF Core
+- 🐳 **DevOps:** Docker, Docker Compose, Git/GitHub
 - 🐍 **Python:** Scripting, automation & backend development
 - 🤖 **AI & ML:** Machine Learning fundamentals, AI applications & Python for ML
-- 🧪 **Testing:** Playwright, test automation
+- 🧪 **Testing:** xUnit, Testcontainers, Playwright, test automation
 - 🔧 **System Design:** Configuration-driven & rules-based systems
 - 🗄️ **Data:** APIs, data persistence & application workflows
 
 ---
 
 ## 🚀 Featured Projects
+
+### 💳 Payment Processing REST API
+**C# + .NET 9 + PostgreSQL + Docker**
+
+A payments API with authorize, capture, void and refund, idempotency keys, a double-entry ledger, API-key auth and 19 automated tests.
+
+🔗 [View Project](https://github.com/Ankey02/payment-processing-rest-api)
+
 
 ### 👨‍💼 Employee Management System
 **React + Node.js + Express**
